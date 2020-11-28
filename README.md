@@ -24,9 +24,9 @@ Grande do Sul.
 
 ### Fonte dos dados: 
 
-* [Repositório de dados eleitoriais TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+* [Repositório de dados eleitorais TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).
 
-* Os arquivos analisados encontram-se na pasta [database]().
+* Os arquivos analisados encontram-se na pasta [database](https://github.com/arapujo/analise_dados_candidatos_eleicoes_2020/tree/master/database).
 
 ### Autores: 
 
